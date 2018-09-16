@@ -1,2 +1,2 @@
 # ovh-notes
-My notes on using OVH
+My notes taken on OVH
